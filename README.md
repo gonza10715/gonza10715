@@ -12,16 +12,19 @@ Desarrollador web de **San Miguel, Buenos Aires, Argentina**. Creo proyectos de 
 
 | Proyecto | Descripción | Repositorio |
 | --- | --- | --- |
-| **GM Web** | Sitio de servicios web para negocios y demos interactivas | [Código](https://github.com/gonza10715/gonzalo) · [Sitio](https://gmweb-servicios.netlify.app/) |
+| **GM Web** | Sitio de servicios web para negocios y demos interactivas | [Código](https://github.com/gonza10715/gonzalo) · [Sitio](https://gonza10715.github.io/gonzalo/) |
 | **Inventario Flask Pro** | Stock, usuarios, CRUD y asistente basado en reglas (demo educativa) | [Código](https://github.com/gonza10715/inventario-flask-pro) |
 | **Delivery Web** | Menús y carrito con pagos ficticios | [Código](https://github.com/gonza10715/Delivery-web) |
 | **Distrito Barber** | Landing responsive para barbería ficticia | [Código](https://github.com/gonza10715/barberia-web) |
-| **Casa Brava** | Restaurante ficticio con carta filtrable | [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/restaurante) |
-| **Norte Studio** | Tienda ficticia con catálogo y carrito | [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/tienda) |
+| **Casa Brava** | Restaurante ficticio con carta filtrable | [Demo](https://gonza10715.github.io/gonzalo/demos/restaurante/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/restaurante) |
+| **Norte Studio** | Tienda ficticia con catálogo y carrito | [Demo](https://gonza10715.github.io/gonzalo/demos/tienda/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/tienda) |
+
+### Portfolio técnico
+- 🚀 [Ver portfolio y proyectos online](https://gonza10715.github.io/gonzalo/demos/portfolio/)
 
 ### Contacto
 - 📍 San Miguel, Buenos Aires — disponible para proyectos remotos.
 - 💬 [WhatsApp comercial](https://wa.me/5491132284507)
-- 🌐 [GM Web](https://gmweb-servicios.netlify.app/)
+- 🌐 [GM Web](https://gonza10715.github.io/gonzalo/)
 
 > Los proyectos marcados como demos son ejemplos ficticios de portfolio, no trabajos realizados para clientes ni productos que acepten pagos.
