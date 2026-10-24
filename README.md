@@ -23,6 +23,8 @@ Desarrollador web de **San Miguel, Buenos Aires, Argentina**. Creo proyectos de 
 | **VELOCE Motors** | Concesionaria ficticia con catálogo premium filtrable | [Demo](https://gonza10715.github.io/gonzalo/demos/veloce/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/veloce) |
 | **SERENA Casa Hotel** | Hotel ficticio con simulador de estadía | [Demo](https://gonza10715.github.io/gonzalo/demos/serena/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/serena) |
 
+| **CLARA Dental** | Clínica odontológica ficticia con filtros de especialidades y turnos simulados | [Demo](https://gonza10715.github.io/gonzalo/demos/sonrisa/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/sonrisa) |
+
 ### Portfolio técnico
 - 🚀 [Ver portfolio y proyectos online](https://gonza10715.github.io/gonzalo/demos/portfolio/)
 
