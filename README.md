@@ -1,39 +1,36 @@
-# ¡Hola! Soy Gonzalo Martínez 👋
+# Gonzalo Martínez
 
-Desarrollador web de **San Miguel, Buenos Aires, Argentina**. Creo proyectos de práctica y demos comerciales con frontend y backend. Me interesa colaborar en proyectos junior, soporte técnico y desarrollo freelance.
+**Desarrollo web · Python · JavaScript**  
+San Miguel, Buenos Aires, Argentina · Abierto a oportunidades junior y proyectos freelance.
 
-### Tecnologías que utilizo
-- **Frontend:** HTML5, CSS3 y JavaScript
-- **Backend:** Python y Flask
-- **Datos:** SQLite y SQL
-- **Herramientas:** Git, GitHub y Cursor
+Me gusta crear herramientas y experiencias web que resuelvan necesidades concretas: desde un catálogo para un comercio hasta un sistema sencillo para organizar inventario. Actualmente desarrollo y mejoro proyectos personales mientras sigo fortaleciendo mis conocimientos.
+
+### Tecnologías
+
+- **Web:** HTML, CSS y JavaScript
+- **Backend y datos:** Python, Flask, SQL y SQLite
+- **Herramientas:** Git y GitHub
 
 ### Proyectos destacados
 
-| Proyecto | Descripción | Repositorio |
+| Proyecto | Qué demuestra | Enlaces |
 | --- | --- | --- |
-| **GM Web** | Sitio de servicios web para negocios y demos interactivas | [Código](https://github.com/gonza10715/gonzalo) · [Sitio](https://gonza10715.github.io/gonzalo/) |
-| **Inventario Flask Pro** | Stock, usuarios, CRUD y asistente basado en reglas (demo educativa) | [Código](https://github.com/gonza10715/inventario-flask-pro) |
-| **Delivery Web** | Menús y carrito con pagos ficticios | [Código](https://github.com/gonza10715/Delivery-web) |
-| **Distrito Barber** | Landing responsive para barbería ficticia | [Código](https://github.com/gonza10715/barberia-web) |
-| **Casa Brava** | Restaurante ficticio con carta filtrable | [Demo](https://gonza10715.github.io/gonzalo/demos/restaurante/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/restaurante) |
-| **Norte Studio** | Tienda ficticia con catálogo y carrito | [Demo](https://gonza10715.github.io/gonzalo/demos/tienda/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/tienda) |
-| **ATELIER** | Landing ficticia de arquitectura con galería filtrable | [Demo](https://gonza10715.github.io/gonzalo/demos/atelier/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/atelier) |
+| **Sistema de inventario** | Autenticación, gestión de productos, operaciones CRUD y datos con Flask/SQLite | [Código](https://github.com/gonza10715/inventario-flask-pro) |
+| **GM Web** | Sitio comercial responsive, interacciones en JavaScript y contacto por WhatsApp | [Web](https://gonza10715.github.io/gonzalo/) · [Código](https://github.com/gonza10715/gonzalo) |
+| **Delivery Web** | Interfaz de pedidos, búsqueda, carrito y pagos simulados | [Código](https://github.com/gonza10715/Delivery-web) |
+| **Distrito Barber** | Diseño de landing para un negocio y adaptación a distintos tamaños de pantalla | [Código](https://github.com/gonza10715/barberia-web) |
 
-| **VELOCE Motors** | Concesionaria ficticia con catálogo premium filtrable | [Demo](https://gonza10715.github.io/gonzalo/demos/veloce/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/veloce) |
-| **SERENA Casa Hotel** | Hotel ficticio con simulador de estadía | [Demo](https://gonza10715.github.io/gonzalo/demos/serena/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/serena) |
+### Demos de diseño y desarrollo web
 
-| **CLARA Dental** | Clínica odontológica ficticia con filtros de especialidades y turnos simulados | [Demo](https://gonza10715.github.io/gonzalo/demos/sonrisa/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/sonrisa) |
+En el sitio de GM Web reuní ejemplos para distintos rubros —gastronomía, arquitectura, autos, hotelería, salud y comercios— con estilos visuales y funcionalidades diferentes.
 
-| **LOMA Propiedades** | Inmobiliaria ficticia con filtros combinables y búsqueda dinámica | [Demo](https://gonza10715.github.io/gonzalo/demos/loma/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/loma) |
-| **AZAHAR Flores** | Florería ficticia con catálogo y carrito interactivo | [Demo](https://gonza10715.github.io/gonzalo/demos/azahar/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/azahar) |
+**[Explorar las demos](https://gonza10715.github.io/gonzalo/#proyectos)** · [Ver mi portfolio técnico](https://gonza10715.github.io/gonzalo/demos/portfolio/)
 
-### Portfolio técnico
-- 🚀 [Ver portfolio y proyectos online](https://gonza10715.github.io/gonzalo/demos/portfolio/)
+Estas demos son **proyectos conceptuales con datos ficticios**, no trabajos realizados para clientes. No procesan pagos, reservas ni pedidos reales.
 
 ### Contacto
-- 📍 San Miguel, Buenos Aires — disponible para proyectos remotos.
-- 💬 [WhatsApp comercial](https://wa.me/5491132284507)
-- 🌐 [GM Web](https://gonza10715.github.io/gonzalo/)
 
-> Los proyectos marcados como demos son ejemplos ficticios de portfolio, no trabajos realizados para clientes ni productos que acepten pagos.
+- [WhatsApp para consultas sobre proyectos](https://wa.me/5491132284507)
+- [GM Web — Servicios de desarrollo](https://gonza10715.github.io/gonzalo/)
+
+Busco seguir aprendiendo y aportar en equipos de desarrollo web, proyectos junior y colaboraciones freelance.
