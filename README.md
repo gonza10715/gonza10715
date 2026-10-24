@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Gonzalo Martínez 👋
 
-<!--
-**gonza10715/gonza10715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web de **San Miguel, Buenos Aires, Argentina**. Creo proyectos de práctica y demos comerciales con frontend y backend. Me interesa colaborar en proyectos junior, soporte técnico y desarrollo freelance.
 
-Here are some ideas to get you started:
+### Tecnologías que utilizo
+- **Frontend:** HTML5, CSS3 y JavaScript
+- **Backend:** Python y Flask
+- **Datos:** SQLite y SQL
+- **Herramientas:** Git, GitHub y Cursor
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos destacados
+
+| Proyecto | Descripción | Repositorio |
+| --- | --- | --- |
+| **GM Web** | Sitio de servicios web para negocios y demos interactivas | [Código](https://github.com/gonza10715/gonzalo) · [Sitio](https://gmweb-servicios.netlify.app/) |
+| **Inventario Flask Pro** | Stock, usuarios, CRUD y asistente basado en reglas (demo educativa) | [Código](https://github.com/gonza10715/inventario-flask-pro) |
+| **Delivery Web** | Menús y carrito con pagos ficticios | [Código](https://github.com/gonza10715/Delivery-web) |
+| **Distrito Barber** | Landing responsive para barbería ficticia | [Código](https://github.com/gonza10715/barberia-web) |
+| **Casa Brava** | Restaurante ficticio con carta filtrable | [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/restaurante) |
+| **Norte Studio** | Tienda ficticia con catálogo y carrito | [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/tienda) |
+
+### Contacto
+- 📍 San Miguel, Buenos Aires — disponible para proyectos remotos.
+- 💬 [WhatsApp comercial](https://wa.me/5491132284507)
+- 🌐 [GM Web](https://gmweb-servicios.netlify.app/)
+
+> Los proyectos marcados como demos son ejemplos ficticios de portfolio, no trabajos realizados para clientes ni productos que acepten pagos.
