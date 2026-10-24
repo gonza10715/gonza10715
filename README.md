@@ -20,6 +20,9 @@ Desarrollador web de **San Miguel, Buenos Aires, Argentina**. Creo proyectos de 
 | **Norte Studio** | Tienda ficticia con catálogo y carrito | [Demo](https://gonza10715.github.io/gonzalo/demos/tienda/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/tienda) |
 | **ATELIER** | Landing ficticia de arquitectura con galería filtrable | [Demo](https://gonza10715.github.io/gonzalo/demos/atelier/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/atelier) |
 
+| **VELOCE Motors** | Concesionaria ficticia con catálogo premium filtrable | [Demo](https://gonza10715.github.io/gonzalo/demos/veloce/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/veloce) |
+| **SERENA Casa Hotel** | Hotel ficticio con simulador de estadía | [Demo](https://gonza10715.github.io/gonzalo/demos/serena/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/serena) |
+
 ### Portfolio técnico
 - 🚀 [Ver portfolio y proyectos online](https://gonza10715.github.io/gonzalo/demos/portfolio/)
 
