@@ -25,6 +25,9 @@ Desarrollador web de **San Miguel, Buenos Aires, Argentina**. Creo proyectos de 
 
 | **CLARA Dental** | Clínica odontológica ficticia con filtros de especialidades y turnos simulados | [Demo](https://gonza10715.github.io/gonzalo/demos/sonrisa/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/sonrisa) |
 
+| **LOMA Propiedades** | Inmobiliaria ficticia con filtros combinables y búsqueda dinámica | [Demo](https://gonza10715.github.io/gonzalo/demos/loma/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/loma) |
+| **AZAHAR Flores** | Florería ficticia con catálogo y carrito interactivo | [Demo](https://gonza10715.github.io/gonzalo/demos/azahar/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/azahar) |
+
 ### Portfolio técnico
 - 🚀 [Ver portfolio y proyectos online](https://gonza10715.github.io/gonzalo/demos/portfolio/)
 
