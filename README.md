@@ -19,6 +19,8 @@ Me gusta crear herramientas y experiencias web que resuelvan necesidades concret
 | **GM Web** | Sitio comercial responsive, interacciones en JavaScript y contacto por WhatsApp | [Web](https://gonza10715.github.io/gonzalo/) · [Código](https://github.com/gonza10715/gonzalo) |
 | **Delivery Web** | Interfaz de pedidos, búsqueda, carrito y pagos simulados | [Código](https://github.com/gonza10715/Delivery-web) |
 | **Distrito Barber** | Diseño de landing para un negocio y adaptación a distintos tamaños de pantalla | [Código](https://github.com/gonza10715/barberia-web) |
+| **ATELIER Arquitectura** | Sitio conceptual con presentación editorial de proyectos y servicios | [Demo](https://gonza10715.github.io/gonzalo/demos/atelier/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/atelier) |
+| **VELOCE Motors** | Catálogo conceptual de vehículos con una identidad visual distinta | [Demo](https://gonza10715.github.io/gonzalo/demos/veloce/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/veloce) |
 
 ### Demos de diseño y desarrollo web
 
