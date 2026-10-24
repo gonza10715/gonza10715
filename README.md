@@ -18,6 +18,7 @@ Desarrollador web de **San Miguel, Buenos Aires, Argentina**. Creo proyectos de 
 | **Distrito Barber** | Landing responsive para barbería ficticia | [Código](https://github.com/gonza10715/barberia-web) |
 | **Casa Brava** | Restaurante ficticio con carta filtrable | [Demo](https://gonza10715.github.io/gonzalo/demos/restaurante/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/restaurante) |
 | **Norte Studio** | Tienda ficticia con catálogo y carrito | [Demo](https://gonza10715.github.io/gonzalo/demos/tienda/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/tienda) |
+| **ATELIER** | Landing ficticia de arquitectura con galería filtrable | [Demo](https://gonza10715.github.io/gonzalo/demos/atelier/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/atelier) |
 
 ### Portfolio técnico
 - 🚀 [Ver portfolio y proyectos online](https://gonza10715.github.io/gonzalo/demos/portfolio/)
