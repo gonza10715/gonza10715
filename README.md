@@ -1,38 +1,56 @@
 # Gonzalo Martínez
 
-**Desarrollo web · Python · JavaScript**  
-San Miguel, Buenos Aires, Argentina · Abierto a oportunidades junior y proyectos freelance.
+**Desarrollo web · Python · JavaScript · SQL**  
+Buenos Aires, Argentina · Abierto a oportunidades de desarrollo junior y colaboraciones freelance.
 
-Me gusta crear herramientas y experiencias web que resuelvan necesidades concretas: desde un catálogo para un comercio hasta un sistema sencillo para organizar inventario. Actualmente desarrollo y mejoro proyectos personales mientras sigo fortaleciendo mis conocimientos.
+Construyo proyectos de aprendizaje para practicar interfaces, lógica de negocio y aplicaciones con datos. Me interesa comprender las decisiones detrás del código, escribir pruebas y mejorar cada implementación.
 
-### Tecnologías
+## Proyectos técnicos destacados
 
-- **Web:** HTML, CSS y JavaScript
-- **Backend y datos:** Python, Flask, SQL y SQLite
-- **Herramientas:** Git y GitHub
+### 1. Inventario Flask Pro — aplicación web
+**Python · Flask · SQLite · HTML · CSS · JavaScript**
 
-### Proyectos destacados
+Aplicación educativa con registro e inicio de sesión, gestión de stock, consultas SQL parametrizadas, hash de contraseñas y protección CSRF.
 
-| Proyecto | Qué demuestra | Enlaces |
-| --- | --- | --- |
-| **Sistema de inventario** | Autenticación, gestión de productos, operaciones CRUD y datos con Flask/SQLite | [Código](https://github.com/gonza10715/inventario-flask-pro) |
-| **GM Web** | Sitio comercial responsive, interacciones en JavaScript y contacto por WhatsApp | [Web](https://gonza10715.github.io/gonzalo/) · [Código](https://github.com/gonza10715/gonzalo) |
-| **Delivery Web** | Interfaz de pedidos, búsqueda, carrito y pagos simulados | [Código](https://github.com/gonza10715/Delivery-web) |
-| **Distrito Barber** | Diseño de landing para un negocio y adaptación a distintos tamaños de pantalla | [Código](https://github.com/gonza10715/barberia-web) |
-| **ATELIER Arquitectura** | Sitio conceptual con presentación editorial de proyectos y servicios | [Demo](https://gonza10715.github.io/gonzalo/demos/atelier/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/atelier) |
-| **VELOCE Motors** | Catálogo conceptual de vehículos con una identidad visual distinta | [Demo](https://gonza10715.github.io/gonzalo/demos/veloce/) · [Código](https://github.com/gonza10715/gonzalo/tree/main/demos/veloce) |
+- [Código y documentación](https://github.com/gonza10715/inventario-flask-pro)
+- [Pruebas automatizadas y estado de ejecución](https://github.com/gonza10715/inventario-flask-pro/actions)
 
-### Demos de diseño y desarrollo web
+**Alcance real:** prototipo local, no apto para producción. La separación de datos por usuario es una mejora pendiente y está documentada.
 
-En el sitio de GM Web reuní ejemplos para distintos rubros —gastronomía, arquitectura, autos, hotelería, salud y comercios— con estilos visuales y funcionalidades diferentes.
+### 2. GM Stock API — API REST de práctica
+**Python · Flask · SQLite · SQL · pytest**
 
-**[Explorar las demos](https://gonza10715.github.io/gonzalo/#proyectos)** · [Ver mi portfolio técnico](https://gonza10715.github.io/gonzalo/demos/portfolio/)
+Endpoints de productos, validación de entradas, manejo de errores y cambios de stock con prevención de cantidades negativas.
 
-Estas demos son **proyectos conceptuales con datos ficticios**, no trabajos realizados para clientes. No procesan pagos, reservas ni pedidos reales.
+- [Código, tests e instrucciones](https://github.com/gonza10715/gonzalo/tree/main/projects/stock-api)
 
-### Contacto
+**Alcance real:** API educativa sin autenticación ni despliegue público.
 
-- [WhatsApp para consultas sobre proyectos](https://wa.me/5491132284507)
-- [GM Web — Servicios de desarrollo](https://gonza10715.github.io/gonzalo/)
+### 3. Delivery Web — lógica de interfaz
+**HTML · CSS · JavaScript**
 
-Busco seguir aprendiendo y aportar en equipos de desarrollo web, proyectos junior y colaboraciones freelance.
+Proyecto de práctica con navegación por productos, selección y carrito de compras. Los pedidos y pagos son simulados.
+
+- [Explorar repositorio](https://github.com/gonza10715/Delivery-web)
+
+## Demos de diseño y desarrollo para negocios
+
+También tengo un catálogo de conceptos web para gastronomía, arquitectura, hotelería, comercios, salud y otros rubros. Son proyectos ficticios para mostrar diseño responsive e interacciones básicas, **no trabajos de clientes reales**.
+
+- [Explorar GM Web](https://gonza10715.github.io/gonzalo/)
+- [Ver portfolio técnico](https://gonza10715.github.io/gonzalo/demos/portfolio/)
+
+## Tecnologías y aprendizaje
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Python, Flask, APIs HTTP
+- **Datos:** SQL, SQLite
+- **Calidad:** pytest, validaciones, GitHub Actions
+- **Herramientas:** Git, GitHub, asistentes de IA para apoyo en desarrollo y revisión
+
+Estoy profundizando las pruebas automatizadas, el diseño de bases de datos y el manejo de permisos de usuario. Distingo los prototipos de práctica de soluciones listas para producción.
+
+## Contacto
+
+- [Portfolio web](https://gonza10715.github.io/gonzalo/)
+- [WhatsApp profesional](https://wa.me/5491132284507)
