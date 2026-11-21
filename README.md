@@ -15,7 +15,7 @@ Aplicación educativa con registro e inicio de sesión, gestión de stock, consu
 - [Código y documentación](https://github.com/gonza10715/inventario-flask-pro)
 - [Pruebas automatizadas y estado de ejecución](https://github.com/gonza10715/inventario-flask-pro/actions)
 
-**Alcance real:** prototipo local, no apto para producción. La separación de datos por usuario es una mejora pendiente y está documentada.
+**Alcance real:** prototipo local, no apto para producción. La separación de datos por usuario está implementada y cubierta por pruebas de integración; faltan controles y validaciones propios de un despliegue público.
 
 ### 2. GM Stock API — API REST de práctica
 **Python · Flask · SQLite · SQL · pytest**
@@ -46,7 +46,7 @@ También tengo un catálogo de conceptos web para gastronomía, arquitectura, ho
 - **Backend:** Python, Flask, APIs HTTP
 - **Datos:** SQL, SQLite
 - **Calidad:** pytest, validaciones, GitHub Actions
-- **Herramientas:** Git, GitHub, GitHub Actions
+- **Herramientas:** Git, GitHub
 
 Estoy profundizando las pruebas automatizadas, el diseño de bases de datos y el manejo de permisos de usuario. Distingo los prototipos de práctica de soluciones listas para producción.
 
