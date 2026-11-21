@@ -54,5 +54,7 @@ Estoy profundizando las pruebas automatizadas, el diseño de bases de datos y el
 
 ## Contacto
 
-- [Portfolio web](https://gonza10715.github.io/gonzalo/)
+- [Portfolio técnico](https://gonza10715.github.io/gonzalo/demos/portfolio/)
+- [GitHub y demos de GM Web](https://gonza10715.github.io/gonzalo/)
+- [Correo profesional](mailto:gonzalomartinez015015@gmail.com)
 - [WhatsApp profesional](https://wa.me/5491132284507)
