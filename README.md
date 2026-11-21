@@ -17,21 +17,23 @@ Aplicación educativa con registro e inicio de sesión, gestión de stock, consu
 
 **Alcance real:** prototipo local, no apto para producción. La separación de datos por usuario está implementada y cubierta por pruebas de integración; faltan controles y validaciones propios de un despliegue público.
 
-### 2. GM Stock API — API REST de práctica
+### 2. Delivery Web — aplicación de interfaz
+**HTML · CSS · JavaScript · Node.js (tests)**
+
+Catálogo ficticio de restaurantes, búsqueda, carrito con cantidades, subtotal y persistencia local. Lógica del carrito separada del DOM y cubierta por pruebas automáticas. La confirmación de pedido es solo una simulación.
+
+- [Código y documentación](https://github.com/gonza10715/Delivery-web)
+- [Pruebas automatizadas](https://github.com/gonza10715/Delivery-web/actions)
+
+### 3. Stock API — API REST de práctica
 **Python · Flask · SQLite · SQL · pytest**
 
-Endpoints de productos, validación de entradas, manejo de errores y cambios de stock con prevención de cantidades negativas.
+Endpoints de inventario con validación de tipos y rangos, SKU único, errores HTTP, búsqueda y movimientos de stock con control de límites. Pruebas aisladas sobre bases temporales.
 
-- [Código, tests e instrucciones](https://github.com/gonza10715/gonzalo/tree/main/projects/stock-api)
+- [Código e instrucciones](https://github.com/gonza10715/gonzalo/tree/main/projects/stock-api)
+- [Estado de las pruebas](https://github.com/gonza10715/gonzalo/actions)
 
 **Alcance real:** API educativa sin autenticación ni despliegue público.
-
-### 3. Delivery Web — lógica de interfaz
-**HTML · CSS · JavaScript**
-
-Proyecto de práctica con navegación por productos, selección y carrito de compras. Los pedidos y pagos son simulados.
-
-- [Explorar repositorio](https://github.com/gonza10715/Delivery-web)
 
 ## Demos de diseño y desarrollo para negocios
 
