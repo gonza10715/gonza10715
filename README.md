@@ -46,7 +46,7 @@ También tengo un catálogo de conceptos web para gastronomía, arquitectura, ho
 - **Backend:** Python, Flask, APIs HTTP
 - **Datos:** SQL, SQLite
 - **Calidad:** pytest, validaciones, GitHub Actions
-- **Herramientas:** Git, GitHub, asistentes de IA para apoyo en desarrollo y revisión
+- **Herramientas:** Git, GitHub, GitHub Actions
 
 Estoy profundizando las pruebas automatizadas, el diseño de bases de datos y el manejo de permisos de usuario. Distingo los prototipos de práctica de soluciones listas para producción.
 
