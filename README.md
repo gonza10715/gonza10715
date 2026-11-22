@@ -1,9 +1,9 @@
 # Gonzalo Martínez
 
-**Desarrollo web · Python · JavaScript · SQL**  
-Buenos Aires, Argentina · Abierto a oportunidades de desarrollo junior y colaboraciones freelance.
+**Desarrollador web junior | Python · Flask · JavaScript · SQL**  
+San Miguel, Buenos Aires · Busco mi primera oportunidad remunerada en desarrollo, remota o presencial en GBA/CABA.
 
-Construyo proyectos de aprendizaje para practicar interfaces, lógica de negocio y aplicaciones con datos. Me interesa comprender las decisiones detrás del código, escribir pruebas y mejorar cada implementación.
+Desarrollo aplicaciones de práctica para resolver problemas concretos: autenticación y control de stock, APIs REST y carritos interactivos. Trabajo con código versionado, pruebas y revisiones de cambios. Mis proyectos son educativos; no los presento como experiencia laboral.
 
 ## Proyectos técnicos destacados
 
@@ -35,6 +35,13 @@ Endpoints de inventario con validación de tipos y rangos, SKU único, errores H
 
 **Alcance real:** API educativa sin autenticación ni despliegue público.
 
+## Qué puedo aportar en un equipo junior
+
+- **Frontend:** interfaces responsive con HTML, CSS y JavaScript; formularios, búsqueda y estado local.
+- **Backend:** rutas Flask, validación de entradas, SQL parametrizado y separación de datos por usuario.
+- **Calidad:** pruebas con pytest, Node.js y Playwright/Chromium; CI en GitHub Actions y PRs pequeños.
+- **Trabajo colaborativo:** documentación reproducible, cambios revisables y comunicación clara sobre lo que está probado y lo que todavía falta.
+
 ## Demos de diseño y desarrollo para negocios
 
 También tengo un catálogo de conceptos web para gastronomía, arquitectura, hotelería, comercios, salud y otros rubros. Son proyectos ficticios para mostrar diseño responsive e interacciones básicas, **no trabajos de clientes reales**.
@@ -47,7 +54,7 @@ También tengo un catálogo de conceptos web para gastronomía, arquitectura, ho
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** Python, Flask, APIs HTTP
 - **Datos:** SQL, SQLite
-- **Calidad:** pytest, validaciones, GitHub Actions
+- **Calidad:** pytest, pruebas JavaScript con Node.js, Playwright (Chromium), GitHub Actions
 - **Herramientas:** Git, GitHub
 
 Estoy profundizando las pruebas automatizadas, el diseño de bases de datos y el manejo de permisos de usuario. Distingo los prototipos de práctica de soluciones listas para producción.
